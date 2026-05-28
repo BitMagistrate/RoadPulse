@@ -124,11 +124,3 @@ explainer for jury and DPOs.
 ## 8. Licence
 
 Source code is released under the Apache 2.0 licence (`LICENSE`).
-
-## 9. Pitch & contacts
-
-The full Skolkovo × TASCO pitch (RU + EN) is in
-[`docs/pitch/roadpulse_pitch.md`](docs/pitch/roadpulse_pitch.md). The slide
-generator prompt is at [`PRESENTATION_PROMPT.md`](PRESENTATION_PROMPT.md).
-
-Team: Vladimir Ermolenko & Sergey Karelin — `security@roadpulse.dev`.
